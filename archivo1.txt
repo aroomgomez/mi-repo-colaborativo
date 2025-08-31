@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 efhbflahsb
+=======
+bfwkehbwjhef
+>>>>>>> cb4694beb5c6d198b997fb7fad82cbd64980ea90
 jhwefbjhwebf
 Cambio realizado en local
 este archivo fue creado localmente
